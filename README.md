@@ -2,6 +2,8 @@
 
 AFOAuth2Client is an extension for [AFNetworking](http://github.com/AFNetworking/AFNetworking/) that greatly simplifies the process of authenticating against an [OAuth 2](http://oauth.net/2/) provider.
 
+This fork is created by Github user @mlwelles which bumps AFNetworking version requirement to `2.0`.
+
 ## Example Usage
 
 ``` objective-c
